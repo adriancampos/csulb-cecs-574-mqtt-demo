@@ -1,3 +1,3 @@
 module.exports = {
-    assetPrefix: !debug ? '/csulb-cecs-574-mqtt-demo/' : '',
+    assetPrefix: process.env.NODE_ENV != 'DEBUG' ? '/csulb-cecs-574-mqtt-demo/' : '',
 }
