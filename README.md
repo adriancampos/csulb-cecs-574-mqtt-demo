@@ -19,6 +19,7 @@ in a second terminal to inspect mqtt messages.
 
 
 ## Frontend
+A current build of the frontend can be cound at https://adriancampos.github.io/csulb-cecs-574-mqtt-demo/. To build it yourself:
 #### Prerequisites
 NodeJS (v12.21+) and npm
 #### Build/Develop
